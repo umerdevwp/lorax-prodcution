@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-admin-255615",
+  "private_key_id": "620c97f47453ef0735312baa9959de090a63ca3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZ059K9ecEya1v\ncJWo6TL4p7LBEJvXFba/ObCtf0kOaIfsoWepdtFS1Ao0/I/aHLs6vfoARGSBFu/U\nSVcPrkTFpJcDh9tCqG7MOlrVKLwV3YDBTEWcgy8YkzKPR6A8H7oHLZaR51mVkRkU\noIN+Jb0wkOm0mcu7FtAKMsRjjIPfMxmkQKRAc4cpqCk5rglrXDgaeOMgQfQxoE8H\nL4JQKXN7sur0hIAWd9Vxk7CxwvKKS9HpzFJ5lnd2xclTv0HX44hdy7cQyfaEzkmc\n3ACNO2XkCGNRh6QM7XKGPFBL70KQgazCCfPpZyWPO7SDoWWLH3ekwCjP3I3gDNwt\nezwEJHmLAgMBAAECggEAFJ3LwiCt6zLad06YCFDk33WeXAjNUijbWsqxFreyA2fY\nG8tQGOLPUDISAiL9ZqamI0vV51ZDQBfiYcnIjNX26qRSBwucw9TOMLn7dYklmCqd\nOIrv43ejhsAnrRNU8unvpUmjXf+rPoP5YA3ZQb1uG0W4xNc9+l+m108RiiQJgo7h\n8t61LlRobwwYYNsvDwc90fxCo5uV53nQEUEJ5TtsO79512Bvoq6IlUglpEMNxDfx\n/Gb0rM4M0J5AsshRq9qTUVW0ZDIUQXDIABIZSGq3f2oiKbVl51V6F2Oeajx4gPR8\nzit6WQ1Bv1DZu5VBxgvtVExD0QdML5dkrWeF3rvQIQKBgQDRP/h6TeWPdi9hRNhh\nfe+4QIlF61v7nWq4tYIFFJqVpHaOnSibJ+4nFG7iFh4FGNwxw6iR6jxjpsORDY+1\na+17zR82nOoLM0h+KzLAm/3sdR0aInCLJHEIbCkNxB0ybBeiqO+RGnpKEqAtKjH+\nu/gXo5IqsDZLx6xhFyPpf2P4YQKBgQC8Mblvw7rJKCt1yCrOpCDqMmPx6E/Ty6NK\nMFx5ibAjIR0ZeJdlAi1PpWsFXE4lUmASCilgAfmLN4vZuZZJt5J0Jqu5Cqj7M8OS\nCBQWSvq0UWuCbjBGmgPbJZTj9RrrgilBf8oH+a2/nxkz84csidNDuhOKLI6+/Lcm\n4IhWUIhJawKBgCegYLLwq4eGjyRxgDS+P7Z56kUmdC3rOrmuDeheZYPvOFB7rKPt\nZOlbsj/4hkja02BNOFAhtrv8ac6/bbaisL+gMcgK4Turw4+5KIxXPjgYWaGIYh3H\nkexRZ1jnCcxxsewo5+1nwT7j1heXhQ5DlJENdfHFmxKwxpFAa5mdeVYhAoGBAINK\niV0Ahtn5TUCRUdPxywi3+OP2N2LByXxjetBLj3cijeOMLsqIF0ZeV+hYeigtbNqI\n/k59cjN+n/FYORHaoLCpndmtJzCA72p8ek8HJhoQR1mqN8G5hwEnGdVi1NICb3fD\niBXCSUXK39FPjzkyOhIgyar25Os28SuNL3BQJJRbAoGAdqyFlVwg4VSPzHgseUWe\nI5Dqkp8TCqmtssJS0AF6xq1DNSeqL/m7Ce5Bf/bsCioBi1KiE/OX8TNvPv9OG5Zs\n7ozXg0K7a9e6pPFR6gYhgdiCUZtCIZcppCn0A6eAflQiHGTxXe5tgg74Oukn+d+G\nvy+jDzFdi1M1qrim4D1gHSA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "loraxvision@agent-admin-255615.iam.gserviceaccount.com",
+  "client_id": "115196044421051681499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/loraxvision%40agent-admin-255615.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agent-admin-255615",
+  "private_key_id": "370467a434ea2e5281fbd4db4d76c034e557c9ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJ0Ky1vF1Ss/hS\nq3iEwWifGXRDkDisMZO0YAXNri9H8MGFeTPVSFIJayXiRwupdLuaJbLfBqbfm4vw\nwK4l7bc43TEUUhMvwKZEW06ShXHrTgQ7mSzQ4qhhzQBETKkoK5UQYjD6VrXi5SKw\nLgBtxRhCvNgI8ULXro5+QGWfnlK+Hyvyxb8JXqXdWB8s9GF82Ljxg2t9pHEyIsZ2\nn5e/VhqNVdujunBK1owDSEjvXs5u0AwIHz7W76vLH1+OCLEx8KzrcsK2Ipgi0wjs\n9RSsCE1PFQwUON949JovJzdlhYf0XiouAiGbFGwwcciGkT8d1vR17kNwU6yCyph+\nDY9UHkNfAgMBAAECggEANVgkGf5s4x/NbXZ44m4YyIiqQ6K2BRT1ltqaNHiJTZ/n\n0HnPMe3Z71Jdqh4U6gVIvox8Fa719dS4ELsMTZsbkjOwFS0FxzSbRxdOrRFhPJMI\nuWb7fWlWgvC+ezFvQqDIBLz1N1lL8yT9TdOoj9S8JM0DFEcKuACVoFHd5DB816EY\nzFqld397u9mB9GaFgkcOFiqEPcwmWWjKKiWhhhnyKuqsA53kUvQU3VtbUN06OYWg\nOgMOLfBR2gD8XA7AMiHxfTHqWCcyVFYTuY6uGR+qrD3Bdr478EN5akZTXCPEt62z\ntZQgcatblcw6j6xhbanVczWFfFJhC62yi3PAx87WVQKBgQC+4vcP6FsT5A5FlPOh\nBhYAQvlzLR2KMXSkWVeYezCjl+brFN07zibE1QtJQX8XphDzdWUzlBYK3VraUiJD\nuovAQ5m5elp/WF2zX1E9/8ccW+vbxzwvW0nGW77gv+y5e8n0hSTYBMewLAXOy7aE\nUG+msSufNmZtdMGU8KSEsyH6/QKBgQC400iB3c8gaLfTY2kYaikaRA5K6/HOijaA\nQpJr3Xv5AEspEYL2BXMdKYDIWsIzN35n7rl07QP8Q9ssK2848g/Zv19V29cB5xRG\n8HAwG2laXe5pro+uXrvuVYWZDN+i4CfKg4MFvjRCdjUArdJWY9UE4uEPkqDx1ToS\ne0Hp8P2siwKBgHz7YkR6IFgPtAB/HF1L/M/DCk0NNxAqfXK2RJJD5n7WkI1PJeNo\ngR3TWAZo6ev0AZlGPjLdPOl0MW5M5L5vv9zs5hP5NpO2qfMt76WmeRnqXa2S76ca\nIF3N6FaDk12G3Z5KJuuBhbWlvU+/NgvAFrqPuj4OglYcYjtArJduKkuJAoGBALP9\nHelKZsE6+Xmkn94k1C4+BGU17N+kfXreWdUtdeOBQ7CU2yJXIElP95glumVCL5lr\nQ7P4dR8fvbr/+WpNYN4+ncrxMisqK/cBg1918l0MiHbmhgnbO8zYACiR/t+Qx29S\nLzBSkHYAw5ELtYBn7DS79UzDEHUxn0IMQp5eD8wNAoGAZxm5ADVS8RuHrlSZnt2P\n27U4soOFN+CCSqjGJ4Uq6p1MnPDfKiHQekrwG4gDDEEXCiKT8isgafFpM1/NvrpB\n+pdaqZSBSvSKvAOJROgmcQtMoEstVvrOCACo3YSVs4Ud3S7ife5MBY44FyoNlu0D\nqwmaKwg+zGHV/RWu7DmnOdQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lorax-storage@agent-admin-255615.iam.gserviceaccount.com",
+  "client_id": "109661618366404458957",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lorax-storage%40agent-admin-255615.iam.gserviceaccount.com"
+}

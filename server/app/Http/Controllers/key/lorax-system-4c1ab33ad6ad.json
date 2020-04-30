@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lorax-system",
+  "private_key_id": "4c1ab33ad6ad846cc4655309a62fe33056dc3a18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdsKwdmvRSts4U\nHRYDJ0/tR67ZLId1F+Qjh/YAk05fb0t2Qxc9bulmlwdCe1Q9PKrC3aPuL1KyiiI0\n1K6+a1/5oIzyFQuP8RXhs7LqwFbSFit6xqvczvhzRItMMXf9KIkd5ECIKFviO5aO\nWWfPwzFYhS88DEeiDM8+WrInH25mcz8Wvd57gmnDz3Fq1brJcN5SccIy1Onu931e\n2vVEbhR0w4OClMdjq9hXj0CFndgo5bZ2SgGSQCXkOHZyanT++I50KSHyuconyBPz\nxVISsxoojjjJXjqgElkBUrEaqxLdXPmWUZ/sYzuYO0l5kjmkPym6lYZ6i57F850H\nbF9fpi2rAgMBAAECggEANpwAfyAyjJKSO5T3EpCCtYGlo8AwCPUFJOjo4Loi4hoA\n4CvL2JKYcdbLxNJBEhP4bxOiudHZqcr8nZ8qBPfafPCE3zE6l9a95TP+Oh3x8z+K\nPzKeQhHLKOAL/Y8EJr/q/FcXog+YAnjwYsvDj8fhRu6YtQrro8sb2lQ+bh4MdZ3Y\neJuYF1+AraLe6UoZsjHViKuVeham4wo4rxnzw4T0q3zMlqa+A4jZBlkzfqF7w0Hr\ntqnfUtsECkM6sequIcEmYgLrKXRi8YeU8/uPnncdka4IWrgQXGsd+a1ujBPZ9QlI\n/uIApDjHL5VeVvvNVOob0vfBJoh9UvMT2hXu/NYyQQKBgQDPQ3uaJiRscG+b+nS4\naUmNgJwFFGLdc8T+nfFO3SK/CHxwVjl962ZMcoQdWQKhbv6V3UuQCzkUVWyRnkj5\nEXQPDLsg33lLTvUMCqo4gNo6isIV17BESbdjdWTA8IPn4lOZuqj+B5ViEFaM/jds\n/dqrNTVnukR5m3cu6khprReQZwKBgQDCxQvBo1X1PJhFMdV4ckBQbjOa8hfNNOQJ\ns8x4rqm39LK5zPB8KCegekTeJT2zvXK7+ku1VOuPG2SEfRUfBlcyk8+r7uRQlE59\nuAL3WOwjdwujyvaoabeDtGg0owrbHJFh7nv4il8XbcONgoymviGH2SocyQMnYhEn\nIUVs3kNeHQKBgAiFF6Ggi8LBZHUe+IlUGqfsb31t9xpvVdu5ll/Ni04bBTKA+OAK\nOyxNUMz8CbWlIGX8sMx9CZ2iXVInFYzXgNPVjCOvzAaiekRCc/jaox3g8lV/hklo\nVleKTdf4ixOPJCyfla7LlQJw9X3aPWEHlmOPTmCzMXlmQKH3E370lJFlAoGBAIw7\nd1V6Fp+1eyUG1l4cVLYUQk+jUwPKuw1JSUTy7Pun0S75oYSjHLTsk70mLyDEnGE/\nu1bZx6iH3n2N2bE2zX168yElpXlm7oSSAoC4o3x9cAIEVke3pgvLzuNnKJ/OF9bc\n8KFob0LdItk2T7KWXmoDL9D94alvcE4uJGBYP0T5AoGAUCOkBtrdU4X9m8OdHZIQ\nEwEyoaaKPFJOtkNddA+I67WI3iTp5xY5wnr1qO8LEJP701fG7qli6OOysNmsZdfi\n4cfLCQJku2jKUDj2ep/kIX8L7tew4cTvZ2jCWccT2liSAadwd+vokGCrtwU7VKgI\nqDgPzdNQItfgJE3K5Y4uL5o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lorax-system-indexed-files@lorax-system.iam.gserviceaccount.com",
+  "client_id": "110520525049284164583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lorax-system-indexed-files%40lorax-system.iam.gserviceaccount.com"
+}

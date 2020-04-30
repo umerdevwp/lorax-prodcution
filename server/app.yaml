@@ -1,0 +1,3 @@
+FILESYSTEM_DRIVER: gcs
+GOOGLE_CLOUD_PROJECT_ID: lorax-system
+GOOGLE_CLOUD_STORAGE_BUCKET: lorax_system_indexed_files
