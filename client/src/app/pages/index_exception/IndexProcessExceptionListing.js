@@ -144,7 +144,11 @@ function IndexProcessExceptionListing(props) {
             await fetchData();
             setLoading(false);
     }
+
     const searchList = (key, value) => {
+      if(key==="Enter"){
+        // code
+      }
       
     }
     const fetchData = async (page = 0 ) => {
@@ -170,20 +174,20 @@ function IndexProcessExceptionListing(props) {
         <Grid item xs={12}>
             <Paper className={classes.root}>
                 <TableContainer className={classes.container}>
-               
-                    <Grid item xs={8}>
-                      <h3>Index Process Exception list</h3>
-                    </Grid>
-                    <Grid item xs={4}>
-                      <TextField
-                        onKeyPress={e => searchList( e.key,e.target.value)}
-                      />
-                    </Grid>
                     <Table 
                      stickyHeader
                      aria-label="sticky table"
                     >
                     <TableHead>
+                        <TableRow>
+                          <TableCell colSpan={5} component="th" ><h4>Index Process Exception List</h4></TableCell>
+                          <TableCell colSpan={3} component="th" align="right">
+                            <TextField
+                              onKeyPress={e => searchList( e.key,e.target.value)}
+                              placeholder={'Search'}
+                            />
+                          </TableCell>
+                        </TableRow>
                         <TableRow>
                             <TableCell component="th" >Refined Entity Name</TableCell>
                             <TableCell component="th" >Entity Address</TableCell>

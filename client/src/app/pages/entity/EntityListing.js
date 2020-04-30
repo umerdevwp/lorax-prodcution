@@ -23,6 +23,7 @@ import {
 import {useHistory} from "react-router-dom";
 import VisibilityIcon from '@material-ui/icons/Visibility';
 import Grid from "@material-ui/core/Grid";
+import TextField from '@material-ui/core/TextField';
 import {UserContext} from "../../context/UserContext";
 import {OktaUserContext} from "../../context/OktaUserContext";
 import {entityList} from "../../crud/enitity.crud";
@@ -51,6 +52,13 @@ const useStyles2 = makeStyles(theme => ({
       },
 }));
 
+const searchEntityList = (key, value) => {
+  if(key==="Enter"){
+    // code
+  }
+  
+}
+
 function TablePaginationActions(props) {
     const classes = useStyles1();
     const theme = useTheme();
@@ -71,6 +79,7 @@ function TablePaginationActions(props) {
     function handleLastPageButtonClick(event) {
       onChangePage(event, Math.max(0, Math.ceil(count / rowsPerPage) - 1));
     }
+    
   
     return (
       <div className={classes.root}>
@@ -173,6 +182,15 @@ function EntityListing(props) {
                      aria-label="sticky table"
                     >
                     <TableHead>
+                      <TableRow>
+                          <TableCell colSpan={2} component="th" ><h4>Entity List</h4></TableCell>
+                          <TableCell colSpan={1} component="th" align="right">
+                            <TextField
+                              onKeyPress={e => searchEntityList( e.key,e.target.value)}
+                              placeholder={'Search'}
+                            />
+                          </TableCell>
+                        </TableRow>
                         <TableRow>
                         <TableCell component="th" >Name</TableCell>
                           <TableCell component="th" >Filing State</TableCell>

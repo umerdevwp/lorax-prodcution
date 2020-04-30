@@ -1,4 +1,5 @@
 import React, {useEffect, useMemo, useContext} from "react";
+import {BrowserRouter as Router, Redirect, Route, Switch, withRouter} from 'react-router-dom';
 import {makeStyles, responsiveFontSizes} from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
@@ -17,7 +18,6 @@ import clsx from 'clsx';
 import TextField from '@material-ui/core/TextField';
 import FormGroup from '@material-ui/core/FormGroup';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
-import Switch from '@material-ui/core/Switch';
 import Checkbox from '@material-ui/core/Checkbox';
 import Select from '@material-ui/core/Select';
 import InputLabel from '@material-ui/core/InputLabel';
@@ -243,6 +243,7 @@ const IndexProcessExceptionDetailPage = (props) => {
         else{
             setError(false)
             setSuccess(true)
+           
         }
         
         setLoading(false);
@@ -285,9 +286,8 @@ const IndexProcessExceptionDetailPage = (props) => {
     const handleOnSubmit = (event) => {
         event.preventDefault();
         
-        setTimeout(() => {
-            saveReindexFile()
-        }, 2000)
+        saveReindexFile()
+        
         setLoading(true);
         console.log('Info', `Welcome ${entityName.value}`);
     }
